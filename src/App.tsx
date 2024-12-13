@@ -3,7 +3,7 @@ import LandingPage from "./Pages/Landing/LandingPage";
 import SignupPage from "./Pages/SignUp/SignupPage";
 import SignInPage from "./Pages/SignUp/SignInPage";
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Routes,
   Route,
   Outlet,
