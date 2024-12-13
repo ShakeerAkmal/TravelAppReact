@@ -79,7 +79,7 @@ const StyledFooter = styled(Footer)`
 const CustomFooter = () => {
   return (
     <StyledFooter>
-      <p>© 2024 TravelNova. All rights reserved.</p>
+      <p>© 2024 TravelAgent. All rights reserved.</p>
       <div className="footer-links">
         <a href="#">Privacy Policy</a>
         <a href="#">Terms of Service</a>

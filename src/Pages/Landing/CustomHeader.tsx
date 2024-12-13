@@ -60,7 +60,7 @@ const CustomHeader = () => {
   return (
     <StyledHeader>
       <Logo>
-        <a href="/">TravelNova</a>
+        <a href="/">TravelAgent</a>
       </Logo>
       <Nav>
         {/* Navbar Links for larger screens */}

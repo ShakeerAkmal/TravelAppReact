@@ -96,7 +96,7 @@ const AdminPage: React.FC = () => {
       <Sider width={200}>
         <LogoWrapper>
           <Logo>
-            <a href="/">TravelNova</a>
+            <a href="/">TravelAgent</a>
           </Logo>
         </LogoWrapper>
 

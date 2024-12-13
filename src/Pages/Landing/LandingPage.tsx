@@ -162,7 +162,7 @@ const LandingPage: React.FC = () => {
             <span>About Us</span>
           </SectionHeading>
           <SectionDescription>
-            At TravelNova, we specialize in curating unique travel experiences.
+            At TravelAgent, we specialize in curating unique travel experiences.
             Whether you want to explore hidden gems or iconic landmarks, we make
             it possible.{" "}
           </SectionDescription>
