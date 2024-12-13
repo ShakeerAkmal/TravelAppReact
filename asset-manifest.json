@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TravelAppReact/static/css/main.f855e6bc.css",
+    "main.js": "/TravelAppReact/static/js/main.5af7fea7.js",
+    "static/js/453.6d21e109.chunk.js": "/TravelAppReact/static/js/453.6d21e109.chunk.js",
+    "static/media/hawaii-beach-landscape-with-nature-coastline.jpg": "/TravelAppReact/static/media/hawaii-beach-landscape-with-nature-coastline.3c66ec07e63c080afacd.jpg",
+    "static/media/pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg": "/TravelAppReact/static/media/pietro-de-grandi-T7K4aEPoGGk-unsplash.360f65ee8258350a2484.jpg",
+    "static/media/mesut-kaya-eOcyhe5-9sQ-unsplash.jpg": "/TravelAppReact/static/media/mesut-kaya-eOcyhe5-9sQ-unsplash.6353ad5a2088cfe651e4.jpg",
+    "static/media/maldives.jpg": "/TravelAppReact/static/media/maldives.35f0113ba635f2eca83d.jpg",
+    "static/media/catherine-verrecchia-I9cNDmLuRpQ-unsplash.jpg": "/TravelAppReact/static/media/catherine-verrecchia-I9cNDmLuRpQ-unsplash.d4841378a1e29c2584bb.jpg",
+    "static/media/bg.svg": "/TravelAppReact/static/media/bg.eb085ed0b4b45178f3a8fbdefa577985.svg",
+    "index.html": "/TravelAppReact/index.html",
+    "main.f855e6bc.css.map": "/TravelAppReact/static/css/main.f855e6bc.css.map",
+    "main.5af7fea7.js.map": "/TravelAppReact/static/js/main.5af7fea7.js.map",
+    "453.6d21e109.chunk.js.map": "/TravelAppReact/static/js/453.6d21e109.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5af7fea7.js"
+  ]
+}
